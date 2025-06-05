@@ -23,4 +23,4 @@ Aplicación web para gestionar una lista de contactos personales. Permite agrega
 
 1. Cloná el repositorio:
    ```bash
-   git clone https://github.com/KoenCathe/agenda-contactos.git
+   git clone https://github.com/KoenCathe/Agenda-de-Contactos
