@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Agenda de Contactos</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Agenda de Contactos</h1>
+
+    <input type="text" id="searchInput" placeholder="Buscar contacto..." />
+
+    <form id="contactForm">
+      <input type="text" id="name" placeholder="Nombre" required />
+      <input type="tel" id="phone" placeholder="Teléfono" required />
+      <input type="email" id="email" placeholder="Email" required />
+      <textarea id="notes" placeholder="Notas"></textarea>
+      <input type="file" id="photo" accept="image/*" />
+      <button type="submit">Guardar</button>
+    </form>
+
+    <ul id="contactList"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+@Cat10KO
