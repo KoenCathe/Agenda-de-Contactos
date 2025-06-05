@@ -15,7 +15,7 @@ Aplicación web para gestionar una lista de contactos personales. Permite agrega
 
 ## 👥 Integrantes del grupo
 
-- Catherine Koen - [@juan](https://github.com/juan)  
+- Catherine Koen 
 
 ---
 
@@ -23,4 +23,4 @@ Aplicación web para gestionar una lista de contactos personales. Permite agrega
 
 1. Cloná el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/agenda-contactos.git
+   git clone https://github.com/KoenCathe/agenda-contactos.git
